@@ -1,0 +1,30 @@
+Iter: 0
+D loss: 15.66
+G_loss: 1.37
+Iter: 100
+D loss: -121.0
+G_loss: -16.06
+Iter: 200
+D loss: -418.5
+G_loss: -67.66
+Iter: 300
+D loss: -904.6
+G_loss: -150.2
+Iter: 400
+D loss: -1.634e+03
+G_loss: -266.9
+Iter: 500
+D loss: -2.549e+03
+G_loss: -418.5
+Iter: 600
+D loss: -3.718e+03
+G_loss: -604.9
+Iter: 700
+D loss: -5.174e+03
+G_loss: -826.3
+Iter: 800
+D loss: -6.462e+03
+G_loss: -1.082e+03
+Iter: 900
+D loss: -8.383e+03
+G_loss: -1.373e+03
